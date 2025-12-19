@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Kerimcan 👋
 
-<!--
-**kerimcanugurlu/kerimcanugurlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mathematics student  
+💻 Learning software development  
+📊 Interested in algorithms, data, and finance  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently working on
+- Learning JavaScript fundamentals
+- Combining mathematics with programming
+- Building small projects step by step
+
+---
+
+## 🛠️ Technologies & Tools
+- JavaScript (beginner)
+- HTML & CSS
+- Python (planned)
+- Git & GitHub
+
+---
+
+## 📌 Goals
+- Improve problem-solving skills
+- Build a strong GitHub portfolio
+- Explore software, data, and finance fields
