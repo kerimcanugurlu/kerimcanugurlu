@@ -1,27 +1,18 @@
-# Hi, I'm Kerimcan 👋
+## Hi, I'm Kerimcan 👋
 
-🎓 Mathematics student  
-💻 Learning software development  
-📊 Interested in algorithms, data, and finance  
+💻 Frontend Developer (HTML, CSS, JavaScript)
 
----
+I build responsive and user-friendly websites.
 
-## 🚀 Currently working on
-- Learning JavaScript fundamentals
-- Combining mathematics with programming
-- Building small projects step by step
+🚀 What I can do:
+- Landing pages
+- Website design
+- Bug fixing
+- UI improvements
 
----
+📌 Projects:
+- To-Do App → (live link)
+- Landing Page → (live link)
 
-## 🛠️ Technologies & Tools
-- JavaScript (beginner)
-- HTML & CSS
-- Python (planned)
-- Git & GitHub
-
----
-
-## 📌 Goals
-- Improve problem-solving skills
-- Build a strong GitHub portfolio
-- Explore software, data, and finance fields
+📫 Contact:
+- Email: ugrlkrmcn@gmail.com
